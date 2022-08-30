@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<<< HEAD:Task_43-HW6/obj/project.assets.json
       "projectUniqueName": "D:\\Study GB\\Hw_6\\Task_43-HW6\\Task_43-HW6.csproj",
       "projectName": "Task_43-HW6",
       "projectPath": "D:\\Study GB\\Hw_6\\Task_43-HW6\\Task_43-HW6.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
       "outputPath": "D:\\Study GB\\Hw_6\\Task_43-HW6\\obj\\",
+========
+      "projectUniqueName": "D:\\Study GB\\Hw_6\\40-task_\\task_40.csproj",
+      "projectName": "task_40",
+      "projectPath": "D:\\Study GB\\Hw_6\\40-task_\\task_40.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Study GB\\Hw_6\\40-task_\\obj\\",
+>>>>>>>> 5697fca (add conditions 43):40-task_/obj/project.assets.json
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"

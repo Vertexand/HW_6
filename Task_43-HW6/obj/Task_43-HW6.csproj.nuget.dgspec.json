@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<<< HEAD:Task_43-HW6/obj/Task_43-HW6.csproj.nuget.dgspec.json
     "D:\\Study GB\\Hw_6\\Task_43-HW6\\Task_43-HW6.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "D:\\Study GB\\Hw_6\\Task_43-HW6\\Task_43-HW6.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "D:\\Study GB\\Hw_6\\Task_43-HW6\\obj\\",
+========
+    "D:\\Study GB\\Hw_6\\39_task_\\task_39.csproj": {}
+  },
+  "projects": {
+    "D:\\Study GB\\Hw_6\\39_task_\\task_39.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study GB\\Hw_6\\39_task_\\task_39.csproj",
+        "projectName": "task_39",
+        "projectPath": "D:\\Study GB\\Hw_6\\39_task_\\task_39.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Study GB\\Hw_6\\39_task_\\obj\\",
+>>>>>>>> 5697fca (add conditions 43):39_task_/obj/task_39.csproj.nuget.dgspec.json
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
