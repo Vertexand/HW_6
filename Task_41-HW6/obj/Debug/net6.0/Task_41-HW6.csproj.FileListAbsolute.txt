@@ -1,0 +1,15 @@
+D:\Study GB\Hw_6\Task_41-HW6\bin\Debug\net6.0\Task_41-HW6.exe
+D:\Study GB\Hw_6\Task_41-HW6\bin\Debug\net6.0\Task_41-HW6.deps.json
+D:\Study GB\Hw_6\Task_41-HW6\bin\Debug\net6.0\Task_41-HW6.runtimeconfig.json
+D:\Study GB\Hw_6\Task_41-HW6\bin\Debug\net6.0\Task_41-HW6.dll
+D:\Study GB\Hw_6\Task_41-HW6\bin\Debug\net6.0\Task_41-HW6.pdb
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.csproj.AssemblyReference.cache
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.AssemblyInfoInputs.cache
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.AssemblyInfo.cs
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.csproj.CoreCompileInputs.cache
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.dll
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\refint\Task_41-HW6.dll
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.pdb
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\Task_41-HW6.genruntimeconfig.cache
+D:\Study GB\Hw_6\Task_41-HW6\obj\Debug\net6.0\ref\Task_41-HW6.dll
